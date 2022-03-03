@@ -5,4 +5,4 @@
 
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=tokyonight&show_icons=true)](https://github.com/Gabriel-Delazeri/)
+[![card](https://github-readme-stats.vercel.app/api?username=Gabriel-Delazeri&theme=default)](https://github.com/iuricode/)
