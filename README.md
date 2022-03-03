@@ -3,6 +3,4 @@
 - 🌱 Tecnology Student. -->
 
 
-
-
-[![card](https://github-readme-stats.vercel.app/api?username=Gabriel-Delazeri&theme=default)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Delazeri&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
