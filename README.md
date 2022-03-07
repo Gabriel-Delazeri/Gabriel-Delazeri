@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 gbldelazeri@gmail.com // (11) 98243-0036: ⤵
+  💌 gbldelazeri@gmail.com // (11) 98243-0036: 
 </p>
 
 
