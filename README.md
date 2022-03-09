@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> Ênfase em PHP (Laravel e outras frameworks), Python, mySQL, jquery, css (bootstrap), html...</strong>
+ 🖱️ Linguagens: <strong> Ênfase em PHP (Laravel e outras frameworks), Python, mySQL, jquery, css (bootstrap), html...</strong>
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 gbldelazeri@gmail.com // (11) 98243-0036
+ 📧 gbldelazeri@gmail.com // (11) 98243-0036
 </p>
 
 
