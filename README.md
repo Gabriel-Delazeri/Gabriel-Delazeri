@@ -5,12 +5,12 @@
 </p>
 
 <p align="left">
- 🖱️ Linguagens: <strong> Ênfase em PHP (Laravel e outras frameworks), Python, mySQL, jquery, css (bootstrap), html...</strong>
+ 🖱️ Skills: <strong> Ênfase em PHP (Laravel e outras frameworks), Python, mySQL, jquery, css (bootstrap), html...</strong>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   💼 Ferramentas: <strong> VSCode, MySQL Workbench, XAMPP, .git (...) .</strong>
-</p>
+</p> -->
 
 <p align="left">
  📧 gbldelazeri@gmail.com // (11) 98243-0036
