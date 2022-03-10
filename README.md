@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- 🖱️ Skills: <strong> Ênfase em PHP (Laravel e outras frameworks), Python, mySQL, jquery, css (bootstrap), html...</strong>
+ 🖱️ Skills: <strong> PHP (Laravel e outras frameworks), Python, mySQL, jquery, css (bootstrap), html...</strong>
 </p>
 
 <!-- <p align="left">
