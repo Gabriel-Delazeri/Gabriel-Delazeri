@@ -5,15 +5,11 @@
 </p>
 
 <p align="left">
- 🖱️ Skills: <strong> PHP (Laravel e outras frameworks), Python, mySQL, jquery, css (bootstrap), html (...) </strong>
+ 🖱️ Skills: <strong> PHP (Laravel), Python, mySQL, jquery, css (bootstrap), html (...) </strong>
 </p>
 
 <!-- <p align="left">
   💼 Ferramentas: <strong> VSCode, MySQL Workbench, XAMPP, .git (...) .</strong>
 </p> -->
-
-<p align="left">
- 📧 gbldelazeri@gmail.com OR gbldelazeridev@gmail.com // (11) 98243-0036
-</p>
 
 
