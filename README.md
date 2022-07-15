@@ -8,8 +8,5 @@
  🖱️ Skills: <strong> PHP (Laravel, Lumen), Python, mySQL, jquery, css (bootstrap), html (...) </strong>
 </p>
 
-<!-- <p align="left">
-  💼 Ferramentas: <strong> VSCode, MySQL Workbench, XAMPP, .git (...) .</strong>
-</p> -->
 
 
