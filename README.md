@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- 🖱️ Skills: <strong> PHP (Laravel, Lumen), Python, mySQL, jquery, css (bootstrap), html (...) </strong>
+ 🖱️ Skills: <strong> PHP (Laravel, Lumen), Python, mySQL, js(vue, jquery) , css (bootstrap), </strong>
 </p>
 
 
