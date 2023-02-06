@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />
-</div>  
-  
 
 ### <div align="center">Olá, me chamo Gabriel e sou desenvolvedor de Software.</div>  
   
