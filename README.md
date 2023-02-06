@@ -8,7 +8,7 @@
 - 🌱 Estudando SOLID, microsserviços e boas práticas.  
   
 
-- 📔 Ciências da Computação , UNIP (4/8)  
+- 📔 Ciências da Computação , Universidade Paulista (4/8)  
   
 
 - ⚡ Fun fact: sou canhoto mas uso o mouse na mão direita.  
