@@ -17,7 +17,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Minhas habilidades 
 <table><tr><td valign="top" width="33%">
 
 
@@ -67,7 +67,7 @@
 <br/>  
 
 
-## Connect with me  
+## Contato
 <div align="center">
 <a href="https://github.com/Gabriel-Delazeri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -84,17 +84,13 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Delazeri&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
 ## 🎶
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=wu1etq3sun5lvx61f6a1tte4j&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=00ccff" /></div>  
