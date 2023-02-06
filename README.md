@@ -1,5 +1,5 @@
 
-### <div align="center">Olá, me chamo Gabriel e sou desenvolvedor de Software.</div>  
+### <div align="center">Olá, me chamo Gabriel e sou Desenvolvedor de Software.</div>  
   
 
 - 🔭 Atualmente trabalhando como Full-Stack, utilizando php, laravel, mysql e outras tecnologias.  
