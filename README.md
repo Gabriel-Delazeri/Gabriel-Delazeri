@@ -2,10 +2,10 @@
 ### <div align="center">Olá, me chamo Gabriel e sou Desenvolvedor de Software.</div>  
   
 
-- 🔭 Atualmente trabalhando como Full-Stack, utilizando php, laravel, mysql e outras tecnologias.  
+- 🔭 Atualmente trabalhando como Full-Stack, utilizando php, laravel, javascript, mysql e outras tecnologias.  
   
 
-- 🌱 Estudando SOLID, microsserviços e boas práticas.  
+- 🌱 Estudando Javascript, SOLID, microsserviços e boas práticas.  
   
 
 - 📔 Ciências da Computação, Universidade Paulista (4/8)  
