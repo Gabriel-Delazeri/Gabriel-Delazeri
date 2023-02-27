@@ -5,7 +5,7 @@
 - 🔭 Atualmente trabalhando como Full-Stack, utilizando php, laravel, javascript, mysql e outras tecnologias.  
   
 
-- 🌱 Estudando JAVA, SOLID, microsserviços e boas práticas.  
+- 🌱 Estudando Java, SOLID, microsserviços e boas práticas.  
   
 
 - 📔 Ciências da Computação, Universidade Paulista (4/8)  
