@@ -9,10 +9,6 @@
   
 
 - 📔 Ciências da Computação, Universidade Paulista (4/8)  
-  
-
-- ⚡ Fun fact: sou canhoto mas uso o mouse na mão direita.  
-  
 
 <br/>  
 
