@@ -2,7 +2,9 @@
 ### <div align="center">Olá, me chamo Gabriel e sou Desenvolvedor de Software.</div>  
   
 
-- 🔭 Desenvolvedor Full-Stack com ênfase em back-end Java, com experiência em php e laravel. Front-end ReactJS e Javascript Vanilla.   
+- 🔭 Desenvolvedor de software full-stack, tendo atuado
+principalmente com PHP (Laravel) e Java (Spring Boot) no back-end e Javascript no
+front-end, com React, NextJS e React Native.
 
 - 📔 Ciências da Computação, Universidade Paulista (4/8)  
 
