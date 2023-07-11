@@ -6,7 +6,7 @@
 principalmente com PHP (Laravel) e Java (Spring Boot) no back-end e Javascript no
 front-end, com React, NextJS e React Native.
 
-- 📔 Ciências da Computação, Universidade Paulista (4/8)  
+- 📔 Ciências da Computação, Universidade Paulista (5/8)  
 
 <br/>  
 
