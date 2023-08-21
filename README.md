@@ -4,7 +4,7 @@
 
 - 🔭 Desenvolvedor de software full-stack, tendo atuado
 principalmente com PHP (Laravel) e Java (Spring Boot) no back-end e Javascript no
-front-end, com React, NextJS e React Native.
+front-end, com React, NextJS e Angular.
 
 - 📔 Ciências da Computação, Universidade Paulista (5/8)  
 
