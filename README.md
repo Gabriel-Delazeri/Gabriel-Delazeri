@@ -67,26 +67,3 @@
   
 
 <br/>  
-
-
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Delazeri&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<!-- 
-## 🎶
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=wu1etq3sun5lvx61f6a1tte4j&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=00ccff" /></div>  
-
-<br/>  
-
-  
-
-<br/>   -->
-
-<div align="center"></div>
-<br />
-
-----
