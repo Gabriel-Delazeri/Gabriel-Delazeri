@@ -1,7 +1,3 @@
-
-### <div align="center">Olá, me chamo Gabriel e sou Desenvolvedor de Software.</div>  
-  
-
 - 🔭 Desenvolvedor de software full-stack, com experiência em Java, Spring Boot, PHP, Laravel, Javascript, Angular, React, TailwindCSS e MySQL.
 
 - 📔 Ciências da Computação, Universidade Paulista (5/8)  
