@@ -1,6 +1,6 @@
 - 🔭 Desenvolvedor de software full-stack, com experiência em Java, Spring Boot, PHP, Laravel, Javascript, Angular, React, TailwindCSS e MySQL.
 
-- 📔 Ciências da Computação, Universidade Paulista (5/8)  
+- 📔 Ciências da Computação, Universidade Paulista (7/8)  
 
 <br/>  
 
