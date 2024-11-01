@@ -51,6 +51,8 @@
 
 <br/>  
 
+## Recently Played on Spotify
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wu1etq3sun5lvx61f6a1tte4j)
 
 ## Contato
 <div align="center">
